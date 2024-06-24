@@ -1,5 +1,6 @@
 from avaliacao import Avaliacao
 
+
 class Jogos:
 
     jogos = []

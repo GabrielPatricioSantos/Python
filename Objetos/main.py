@@ -7,7 +7,7 @@ jogo_fifa.adicionar_descricao_jogo(descricao_fifa)
 
 
 def main():
-    pass
+    print(jogo_fifa)
 
 
 if __name__ == '__main__':
